@@ -9,3 +9,6 @@ Polimorfismo : O Méfalar() pode ser implementadoCachorro e Gato, mas ambos são
 
 Abstração
 Definição: O processo de simplificar um objeto ao ocultar complexidades e mostrar apenas as características essenciais. Em vez de focar em detalhes de implementação, a abstração se concentra no que o objeto faz.
+
+Desvantagens
+Definição: Um método especial chamado automaticamente quando um objeto é criado. É usado para inicializar o objeto com valores padrão ou específicos.
