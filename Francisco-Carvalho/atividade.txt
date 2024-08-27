@@ -1,0 +1,3 @@
+Classe:  É um modelo ou molde a partir do qual os objetos são criados.
+    Uma classe define as propriedades (atributos) e comportamentos (métodos) que os objetos dessa classe terão.
+    Por exemplo, uma classe Carro pode ter atributos como cor e modelo, e métodos como acelerar() e frear().
