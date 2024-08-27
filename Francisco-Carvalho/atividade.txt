@@ -1,3 +1,6 @@
 Classe:  É um modelo ou molde a partir do qual os objetos são criados.
     Uma classe define as propriedades (atributos) e comportamentos (métodos) que os objetos dessa classe terão.
     Por exemplo, uma classe Carro pode ter atributos como cor e modelo, e métodos como acelerar() e frear().
+    
+Objeto: É uma instância de uma classe. Um objeto possui estado (valores dos atributos) e comportamento (implementação dos métodos).
+    Por exemplo, um objeto da classe Carro pode ser um carro específico com cor e modelo definidos e que pode acelerar e frear.
