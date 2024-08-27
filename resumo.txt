@@ -1,4 +1,10 @@
 RESUMO UNIDADE 1
 
+Programação Orientada a Objetos (POO) é um paradigma de programação baseado na utilização de "objetos", que são instâncias de "classes". Os principais conceitos dessa abordagem incluem:
 
+Classe: É uma estrutura que define um tipo de dado, com seus atributos (ou propriedades) e métodos (ou funções). Classes servem como moldes para criar objetos. Por exemplo, uma classe Carro pode ter atributos como cor e modelo, e métodos como acelerar() e frear().
+
+Objeto: É uma instância de uma classe. Cada objeto pode ter valores diferentes para seus atributos, mas compartilha a mesma estrutura e comportamento definidos pela classe. Por exemplo, um objeto meuCarro da classe Carro pode ter cor = "vermelho" e modelo = "Fusca".
+
+Encapsulamento: Refere-se ao princípio de esconder os detalhes internos de um objeto e expor apenas o que é necessário. Isso é feito através de modificadores de acesso, como private, protected e public, que controlam a visibilidade dos atributos e métodos. O encapsulamento ajuda a proteger os dados e a manter a integridade do objeto.
 
