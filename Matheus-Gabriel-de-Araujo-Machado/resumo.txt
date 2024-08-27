@@ -1,6 +1,6 @@
-4 Classe: Um modelo para criar objetos, fornecendo um conjunto de atributos e métodos.
-4 Objeto: Uma instância de uma classe.
-4 2Herança: Um mecanismo pelo qual uma classe pode herdar características (atributos e métodos) de outra classe.
-4 Polimorfismo: A capacidade de diferentes classes usar o mesmo nome de método, mas com comportamentos diferentes.
-4 Encapsulamento: A prática de esconder os detalhes internos de um objeto e expor apenas o necessário.
-4 Abstração: A prática de simplificar a complexidade do sistema, mostrando apenas os detalhes essenciais.
+5 Classe: Um modelo para criar objetos, fornecendo um conjunto de atributos e métodos.
+5 Objeto: Uma instância de uma classe.
+5 2Herança: Um mecanismo pelo qual uma classe pode herdar características (atributos e métodos) de outra classe.
+5 Polimorfismo: A capacidade de diferentes classes usar o mesmo nome de método, mas com comportamentos diferentes.
+5 Encapsulamento: A prática de esconder os detalhes internos de um objeto e expor apenas o necessário.
+5 Abstração: A prática de simplificar a complexidade do sistema, mostrando apenas os detalhes essenciais.
