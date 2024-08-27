@@ -3,4 +3,9 @@ Classe: É uma estrutura que define um tipo de dado com atributos (propriedades)
 Exemplo: Se Carro é uma classe, ela pode ter atributos como cor e ano, e métodos como ligar().
 
 
+Encapsulamento: É o conceito de ocultar os detalhes internos e mostrar apenas a interface pública. Melhora a modularidade e protege os dados.
+Modificadores de acesso - private: Apenas acessível dentro da própria classe.
+protected: Acessível dentro da mesma classe, subclasses e classes no mesmo pacote.
+public: Acessível de qualquer lugar.
+
 
