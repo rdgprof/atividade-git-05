@@ -3,3 +3,23 @@ resumo
 resumo 1
 meu nome e thales 
 testando na pratica 
+pricipais conceitos de  Programação orientada a objetos:1. Classes e Objetos
+Classe: Um molde que define atributos e comportamentos comuns para objetos. É a estrutura a partir da qual os objetos são criados.
+Objeto: Uma instância de uma classe que possui estado (atributos) e comportamento (métodos).
+2. Encapsulamento
+Encapsulamento: Oculta os detalhes internos do funcionamento de uma classe e expõe apenas uma interface pública. Protege o estado interno dos objetos e restringe o acesso direto aos seus atributos.
+3. Herança
+Herança: Permite que uma nova classe (subclasse) herde atributos e métodos de uma classe existente (superclasse). Facilita a reutilização de código e estabelece uma relação hierárquica entre classes.
+4. Polimorfismo
+Polimorfismo: Permite que métodos com o mesmo nome se comportem de maneira diferente em diferentes classes. Facilita a substituição e o uso de métodos de diferentes classes através de uma interface comum.
+5. Abstração
+Abstração: Oculta complexidades e expõe apenas o necessário. Em POO, isso é feito através de classes e métodos abstratos que definem uma interface sem implementar detalhes.
+6. Composição
+Composição: Permite que uma classe contenha instâncias de outras classes como atributos. Ajuda a construir objetos complexos a partir de objetos mais simples e promove a reutilização.
+7. Associação
+Associação: Descreve como as classes interagem e se relacionam entre si. Pode ser direta (uma classe usa a outra) ou indireta (uma classe contém referências a outras classes).
+Esses conceitos são fundamentais para o desenvolvimento de software modular, flexível e reutilizável, ajudando a organizar e estruturar o código de forma eficiente.
+
+
+
+
