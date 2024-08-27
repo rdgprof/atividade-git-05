@@ -17,3 +17,8 @@ Subclasse: Classe que estende a superclasse.
 Polimorfismo: Permite que um objeto se comporte de maneiras diferentes dependendo do contexto.
 Pode ser alcançado por meio de sobrecarga e sobrescrita de métodos.
 Sobrecarga de Métodos: Vários métodos com o mesmo nome, mas diferentes parâmetros, na mesma classe.
+
+
+Abstração: Oculta a complexidade e mostra apenas a funcionalidade essencial. 
+Usado para criar uma interface que outras classes devem implementar.
+Classe Abstrata: Não pode ser instanciada e pode conter métodos abstratos (sem implementação) e métodos concretos (com implementação).
