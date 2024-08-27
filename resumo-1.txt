@@ -13,3 +13,8 @@ que herdam métodos como comer() e dormir() da classe Animal, mas podem ter comp
 Polimorfismo: Polimorfismo permite que objetos de diferentes classes sejam manipulados através de uma interface comum. Isso significa que métodos com 
 o mesmo nome podem se comportar de maneira diferente dependendo da classe do objeto que os chama. Por exemplo, um método fazerSom() pode ter diferentes 
 implementações em Cachorro e Gato, retornando “au au” para cães e “miau” para gatos.
+
+Abstração: Abstração é o processo de simplificar a complexidade ao modelar entidades do mundo real por meio de classes e interfaces, ocultando detalhes 
+internos e expondo apenas o necessário. Isso ajuda a focar nas interações e responsabilidades de uma classe, sem se preocupar com a implementação 
+interna. Por exemplo, uma classe Veículo pode ter métodos abstratos como ligarMotor() e parar(), que devem ser implementados por subclasses específicas 
+como Carro e Motocicleta.
