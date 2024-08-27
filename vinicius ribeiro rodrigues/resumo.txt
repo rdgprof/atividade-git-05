@@ -1,0 +1,4 @@
+- Classes e Objetos: A classe é um molde para criar objetos. Objetos são instâncias de classes e representam entidades com características e comportamentos.
+- Encapsulamento:  é o processo de esconder todos os detalhes de um objeto que não contribuem para as suas características essenciais.
+- Polimorfismo: Permite que diferentes classes possam ser tratadas através da mesma interface, geralmente com métodos que têm o mesmo nome mas comportamentos diferentes.
+
