@@ -9,3 +9,7 @@ privados como saldo, e métodos públicos como depositar() e sacar(), que permit
 Herança: Herança permite que uma nova classe (subclasse) herde propriedades e comportamentos de uma classe existente (superclasse). Isso promove a 
 reutilização de código e facilita a criação de uma hierarquia de classes. Por exemplo, uma classe Animal pode ser a superclasse de Cachorro e Gato, 
 que herdam métodos como comer() e dormir() da classe Animal, mas podem ter comportamentos específicos próprios.
+
+Polimorfismo: Polimorfismo permite que objetos de diferentes classes sejam manipulados através de uma interface comum. Isso significa que métodos com 
+o mesmo nome podem se comportar de maneira diferente dependendo da classe do objeto que os chama. Por exemplo, um método fazerSom() pode ter diferentes 
+implementações em Cachorro e Gato, retornando “au au” para cães e “miau” para gatos.
