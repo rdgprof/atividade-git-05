@@ -1,0 +1,3 @@
+Classe
+Definição: Um molde ou template para criar objetos. Define os atributos e métodos que os objetos dessa classe terão.
+Exemplo: A classe Livro pode ter atributos como título, autor e métodos como emprestar() e devolver().
