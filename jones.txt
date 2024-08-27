@@ -4,3 +4,6 @@ Exemplo: A classe Livro pode ter atributos como título, autor e métodos como e
 
 Herança
 Exemplo: Uma classe Animal depoisCachorro É GatoGato, que herdamos emAnimalcomo comer() É sonodormir().
+
+ Polimorfismo
+Exemplo: O Méfalar() pode ser implementadoCachorro e 'GGato, mas ambos são chamados com o mesmo nome.
