@@ -9,3 +9,7 @@ protected: Acessível dentro da mesma classe, subclasses e classes no mesmo paco
 public: Acessível de qualquer lugar.
 
 
+Herança: Permite criar uma nova classe baseada em uma classe existente. A nova classe (subclasse) herda atributos e métodos da classe existente (superclasse).
+Superclasse e Subclasse-
+Superclasse: Classe que é estendida.
+Subclasse: Classe que estende a superclasse.
