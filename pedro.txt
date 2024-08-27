@@ -2,4 +2,5 @@
  Classe: é uma definição ou modelo que descreve as características e comportamentos que seus objetos terão. 
 É como um molde para criar objetos. Por exemplo, a classe "Carro" define os atributos "cor" e "marca" e os métodos "acelerar" e "frear".
 
-
+Herança: é o mecanismo pelo qual uma classe (subclasse) pode herdar atributos e métodos de outra classe (superclasse). 
+Isso promove a reutilização de código e permite criar uma hierarquia de classes. Por exemplo, uma classe "Veículo" pode ter subclasses "Carro" e "Moto", que herdam seus atributos e métodos.
