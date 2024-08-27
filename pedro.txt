@@ -1,0 +1,16 @@
+
+ Classe: é uma definição ou modelo que descreve as características e comportamentos que seus objetos terão. 
+É como um molde para criar objetos. Por exemplo, a classe "Carro" define os atributos "cor" e "marca" e os métodos "acelerar" e "frear".
+
+Herança: é o mecanismo pelo qual uma classe (subclasse) pode herdar atributos e métodos de outra classe (superclasse). 
+Isso promove a reutilização de código e permite criar uma hierarquia de classes. Por exemplo, uma classe "Veículo" pode ter subclasses "Carro" e "Moto", que herdam seus atributos e métodos.
+
+Objeto: é uma instância de uma classe. Ele representa uma entidade do mundo real com estado (atributos) e comportamento (métodos). 
+Por exemplo, um objeto "Carro" pode ter atributos como "cor" e "marca", e métodos como "acelerar" e "frear".
+
+Polimorfismo: permite que diferentes classes tratem métodos com o mesmo nome de maneiras diferentes, dependendo da classe que implementa o método. 
+Isso pode ser feito através de sobrecarga (mesmo método com diferentes assinaturas) e sobrescrita (subclasses redefinem métodos da superclasse).
+
+
+Abstração: é o processo de esconder os detalhes complexos de uma implementação, expondo apenas as funcionalidades essenciais. 
+Em POO, isso é alcançado definindo interfaces ou classes abstratas que especificam quais métodos precisam ser implementados, sem expor os detalhes de como eles funcionam.
