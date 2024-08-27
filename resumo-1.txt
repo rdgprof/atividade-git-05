@@ -18,3 +18,16 @@ Abstração: Abstração é o processo de simplificar a complexidade ao modelar 
 internos e expondo apenas o necessário. Isso ajuda a focar nas interações e responsabilidades de uma classe, sem se preocupar com a implementação 
 interna. Por exemplo, uma classe Veículo pode ter métodos abstratos como ligarMotor() e parar(), que devem ser implementados por subclasses específicas 
 como Carro e Motocicleta.
+
+Vantagens da POO:
+
+Modularidade: O código é organizado em módulos independentes, facilitando a manutenção e a reutilização.
+Reutilização: Classes e métodos podem ser reutilizados em diferentes partes do programa ou em projetos futuros.
+Manutenibilidade: Facilita a correção de bugs e a adição de novas funcionalidades sem impactar o sistema como um todo.
+Extensibilidade: Novas funcionalidades podem ser adicionadas facilmente por meio da herança e do polimorfismo.
+Desvantagens:
+
+Complexidade Inicial: A modelagem do sistema pode ser complexa e exigir um planejamento cuidadoso.
+Desempenho: A abstração e o uso de objetos podem, em alguns casos, impactar o desempenho, especialmente se não forem bem projetados.
+A Programação Orientada a Objetos é amplamente utilizada em várias linguagens de programação, como Java, C++, Python e C#, e é essencial para 
+desenvolver sistemas robustos e escaláveis.
