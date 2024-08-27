@@ -20,6 +20,6 @@ Composição: Permite que uma classe contenha instâncias de outras classes como
 Associação: Descreve como as classes interagem e se relacionam entre si. Pode ser direta (uma classe usa a outra) ou indireta (uma classe contém referências a outras classes).
 Esses conceitos são fundamentais para o desenvolvimento de software modular, flexível e reutilizável, ajudando a organizar e estruturar o código de forma eficiente.
 
-
+5 commit
 
 
