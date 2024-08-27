@@ -1,0 +1,6 @@
+Classe: É uma estrutura que define um tipo de dado com atributos (propriedades) e métodos (funções). 
+É o molde a partir do qual objetos são criados.
+Exemplo: Se Carro é uma classe, ela pode ter atributos como cor e ano, e métodos como ligar().
+
+
+
