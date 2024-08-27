@@ -10,3 +10,7 @@ Por exemplo, um objeto "Carro" pode ter atributos como "cor" e "marca", e métod
 
 Polimorfismo: permite que diferentes classes tratem métodos com o mesmo nome de maneiras diferentes, dependendo da classe que implementa o método. 
 Isso pode ser feito através de sobrecarga (mesmo método com diferentes assinaturas) e sobrescrita (subclasses redefinem métodos da superclasse).
+
+
+Abstração: é o processo de esconder os detalhes complexos de uma implementação, expondo apenas as funcionalidades essenciais. 
+Em POO, isso é alcançado definindo interfaces ou classes abstratas que especificam quais métodos precisam ser implementados, sem expor os detalhes de como eles funcionam.
