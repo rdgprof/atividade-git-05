@@ -1,3 +1,6 @@
 Classe
 Definição: Um molde ou template para criar objetos. Define os atributos e métodos que os objetos dessa classe terão.
 Exemplo: A classe Livro pode ter atributos como título, autor e métodos como emprestar() e devolver().
+
+Herança
+Exemplo: Uma classe Animal depoisCachorro É GatoGato, que herdamos emAnimalcomo comer() É sonodormir().
