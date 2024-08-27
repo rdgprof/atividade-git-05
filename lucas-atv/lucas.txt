@@ -13,3 +13,7 @@ Herança: Permite criar uma nova classe baseada em uma classe existente. A nova 
 Superclasse e Subclasse-
 Superclasse: Classe que é estendida.
 Subclasse: Classe que estende a superclasse.
+
+Polimorfismo: Permite que um objeto se comporte de maneiras diferentes dependendo do contexto.
+Pode ser alcançado por meio de sobrecarga e sobrescrita de métodos.
+Sobrecarga de Métodos: Vários métodos com o mesmo nome, mas diferentes parâmetros, na mesma classe.
