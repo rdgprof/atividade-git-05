@@ -5,3 +5,7 @@ da POO são:
 Encapsulamento: Este princípio envolve agrupar dados (atributos) e métodos (funções) que operam sobre esses dados dentro de uma classe. O 
 encapsulamento ajuda a proteger os dados e a esconder detalhes internos da implementação. Por exemplo, uma classe ContaBancária pode ter atributos
 privados como saldo, e métodos públicos como depositar() e sacar(), que permitem manipular o saldo sem expor diretamente o atributo.
+
+Herança: Herança permite que uma nova classe (subclasse) herde propriedades e comportamentos de uma classe existente (superclasse). Isso promove a 
+reutilização de código e facilita a criação de uma hierarquia de classes. Por exemplo, uma classe Animal pode ser a superclasse de Cachorro e Gato, 
+que herdam métodos como comer() e dormir() da classe Animal, mas podem ter comportamentos específicos próprios.
