@@ -7,3 +7,4 @@ Você deverá :
 - Pelo menos 5 commits.
 - Criar um PULL REQUEST e assinalar o professor para que ele valide
 - Após validação o dev poderá ou não mergear o PR. 
+
