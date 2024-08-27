@@ -1,0 +1,5 @@
+
+ Classe: é uma definição ou modelo que descreve as características e comportamentos que seus objetos terão. 
+É como um molde para criar objetos. Por exemplo, a classe "Carro" define os atributos "cor" e "marca" e os métodos "acelerar" e "frear".
+
+
