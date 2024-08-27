@@ -1,0 +1,16 @@
+Classe:  É um modelo ou molde a partir do qual os objetos são criados.
+    Uma classe define as propriedades (atributos) e comportamentos (métodos) que os objetos dessa classe terão.
+    Por exemplo, uma classe Carro pode ter atributos como cor e modelo, e métodos como acelerar() e frear().
+
+Objeto: É uma instância de uma classe. Um objeto possui estado (valores dos atributos) e comportamento (implementação dos métodos).
+    Por exemplo, um objeto da classe Carro pode ser um carro específico com cor e modelo definidos e que pode acelerar e frear.
+
+Herança: É um mecanismo que permite que uma classe herde atributos e métodos de outra classe.
+    A classe que herda é chamada de "classe derivada" ou "subclasse", e a classe de onde ela herda é chamada de "classe base" ou "superclasse".
+    Isso promove a reutilização de código e a criação de uma hierarquia de classes.
+    Por exemplo, você pode ter uma classe Veículo com atributos comuns e uma classe Carro que herda de Veículo e adiciona atributos e métodos específicos.
+
+Polimorfismo: Refere-se à capacidade de um método se comportar de diferentes maneiras com base no contexto.
+    Em POO, isso geralmente se manifesta através da sobrecarga de métodos (métodos com o mesmo nome mas com diferentes parâmetros) e da sobrescrição de métodos
+    (métodos definidos em uma subclasse que substituem métodos da superclasse).
+    O polimorfismo permite que uma interface seja usada para diferentes tipos de objetos, proporcionando flexibilidade no código.
