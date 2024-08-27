@@ -1,33 +1,7 @@
-Programação Orientada a Objetos (POO) é um paradigma de programação que estrutura o software em "objetos", que são instâncias de "classes". 
+Programação orientada a objetos (POO) é um paradigma de programação que estrutura o software em "objetos", que são instâncias de "classes". 
 Cada objeto combina dados e métodos que operam sobre esses dados, permitindo uma modelagem mais próxima ao mundo real. Os principais conceitos 
 da POO são:
 
 Encapsulamento: Este princípio envolve agrupar dados (atributos) e métodos (funções) que operam sobre esses dados dentro de uma classe. O 
 encapsulamento ajuda a proteger os dados e a esconder detalhes internos da implementação. Por exemplo, uma classe ContaBancária pode ter atributos
 privados como saldo, e métodos públicos como depositar() e sacar(), que permitem manipular o saldo sem expor diretamente o atributo.
-
-Herança: Herança permite que uma nova classe (subclasse) herde propriedades e comportamentos de uma classe existente (superclasse). Isso promove a 
-reutilização de código e facilita a criação de uma hierarquia de classes. Por exemplo, uma classe Animal pode ser a superclasse de Cachorro e Gato, 
-que herdam métodos como comer() e dormir() da classe Animal, mas podem ter comportamentos específicos próprios.
-
-Polimorfismo: Polimorfismo permite que objetos de diferentes classes sejam manipulados através de uma interface comum. Isso significa que métodos com 
-o mesmo nome podem se comportar de maneira diferente dependendo da classe do objeto que os chama. Por exemplo, um método fazerSom() pode ter diferentes 
-implementações em Cachorro e Gato, retornando “au au” para cães e “miau” para gatos.
-
-Abstração: Abstração é o processo de simplificar a complexidade ao modelar entidades do mundo real por meio de classes e interfaces, ocultando detalhes 
-internos e expondo apenas o necessário. Isso ajuda a focar nas interações e responsabilidades de uma classe, sem se preocupar com a implementação 
-interna. Por exemplo, uma classe Veículo pode ter métodos abstratos como ligarMotor() e parar(), que devem ser implementados por subclasses específicas 
-como Carro e Motocicleta.
-
-Vantagens da POO:
-
-Modularidade: O código é organizado em módulos independentes, facilitando a manutenção e a reutilização.
-Reutilização: Classes e métodos podem ser reutilizados em diferentes partes do programa ou em projetos futuros.
-Manutenibilidade: Facilita a correção de bugs e a adição de novas funcionalidades sem impactar o sistema como um todo.
-Extensibilidade: Novas funcionalidades podem ser adicionadas facilmente por meio da herança e do polimorfismo.
-Desvantagens:
-
-Complexidade Inicial: A modelagem do sistema pode ser complexa e exigir um planejamento cuidadoso.
-Desempenho: A abstração e o uso de objetos podem, em alguns casos, impactar o desempenho, especialmente se não forem bem projetados.
-A Programação Orientada a Objetos é amplamente utilizada em várias linguagens de programação, como Java, C++, Python e C#, e é essencial para 
-desenvolver sistemas robustos e escaláveis.
