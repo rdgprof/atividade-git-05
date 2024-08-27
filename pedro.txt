@@ -4,3 +4,6 @@
 
 Herança: é o mecanismo pelo qual uma classe (subclasse) pode herdar atributos e métodos de outra classe (superclasse). 
 Isso promove a reutilização de código e permite criar uma hierarquia de classes. Por exemplo, uma classe "Veículo" pode ter subclasses "Carro" e "Moto", que herdam seus atributos e métodos.
+
+Objeto: é uma instância de uma classe. Ele representa uma entidade do mundo real com estado (atributos) e comportamento (métodos). 
+Por exemplo, um objeto "Carro" pode ter atributos como "cor" e "marca", e métodos como "acelerar" e "frear".
