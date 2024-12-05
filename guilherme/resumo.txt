@@ -1,1 +1,3 @@
 git salanmfioj ei
+
+O encapsulamento é o princípio de esconder os detalhes internos de um objeto e permitir o acesso apenas através de métodos públicos. Isso protege os dados de acessos e modificações não autorizados.
