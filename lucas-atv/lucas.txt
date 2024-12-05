@@ -1,0 +1,24 @@
+Classe: É uma estrutura que define um tipo de dado com atributos (propriedades) e métodos (funções). 
+É o molde a partir do qual objetos são criados.
+Exemplo: Se Carro é uma classe, ela pode ter atributos como cor e ano, e métodos como ligar().
+
+
+Encapsulamento: É o conceito de ocultar os detalhes internos e mostrar apenas a interface pública. Melhora a modularidade e protege os dados.
+Modificadores de acesso - private: Apenas acessível dentro da própria classe.
+protected: Acessível dentro da mesma classe, subclasses e classes no mesmo pacote.
+public: Acessível de qualquer lugar.
+
+
+Herança: Permite criar uma nova classe baseada em uma classe existente. A nova classe (subclasse) herda atributos e métodos da classe existente (superclasse).
+Superclasse e Subclasse-
+Superclasse: Classe que é estendida.
+Subclasse: Classe que estende a superclasse.
+
+Polimorfismo: Permite que um objeto se comporte de maneiras diferentes dependendo do contexto.
+Pode ser alcançado por meio de sobrecarga e sobrescrita de métodos.
+Sobrecarga de Métodos: Vários métodos com o mesmo nome, mas diferentes parâmetros, na mesma classe.
+
+
+Abstração: Oculta a complexidade e mostra apenas a funcionalidade essencial. 
+Usado para criar uma interface que outras classes devem implementar.
+Classe Abstrata: Não pode ser instanciada e pode conter métodos abstratos (sem implementação) e métodos concretos (com implementação).
